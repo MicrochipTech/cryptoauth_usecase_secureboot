@@ -1,0 +1,4 @@
+[submodule "SAMBA_BOOTLOADER/SAMBA_D21_BOOTLOADER1/src/cryptoauthlib"]
+	path = SAMBA_BOOTLOADER/SAMBA_D21_BOOTLOADER1/src/cryptoauthlib
+	url = https://github.com/MicrochipTech/cryptoauthlib
+	branch = master
