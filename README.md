@@ -27,4 +27,4 @@ Following are the hardware modules required to do hands on of this this usecase 
 [Buy Secure Boot hardware](http://www.microchipdirect.com/product/promo/SecureBootATECC608A)
 
 ## Additional Weblinks
-For detailed documentation refer to [repository wiki](https://github.com/KalyanCManukonda/ECC608A-SecureBoot-Example/wiki).
+For detailed documentation refer to [repository wiki](https://github.com/MicrochipTech/cryptoauth_usecase_secureboot/wiki).
