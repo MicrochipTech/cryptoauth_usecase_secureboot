@@ -33,7 +33,7 @@
 #include "crypto_device_app.h"
 
 #define ATECC608A_MAH22_CONFIG_I2C_ADDR         (0x6A)
-#define ATECC608A_SECURE_BOOT_DEMO_I2C_ADDR     (0x5B)
+#define ATECC608A_SECURE_BOOT_DEMO_I2C_ADDR     (0x5A)
 #define ATECC608A_DEFAULT_I2C_ADDR              (0xC0)
 
 /** \brief Takes care interface with secure boot and provides status about user
